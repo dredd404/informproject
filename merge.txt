@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 this is gonna be error in merge
-=======
->>>>>>> branch_to_crash
-content to crash
